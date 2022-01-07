@@ -43,7 +43,7 @@ const answers = []
 
 for(let xl= 0; xl < bigOrSmallArray.length; xl++){
   bigOrSmallArray[1] += 1
-}if(bigOrSmallArray > 100 ){
-  
- 
+  console.log(xl)
 }
+ 
+

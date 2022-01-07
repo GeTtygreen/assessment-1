@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition="Git is a software for tracking changes in any set of files, commonly used for coordinating work amongst developers creating code "
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +18,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition="GitHub is basically an online storage unit for you files ,documents , projects, repositories "
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +27,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition= "initializes and existing directory as a Git repo"
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +36,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = 'retrieves an entire repository from a hosted location via URL'
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,7 +45,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = 'shows modified files in workin directory, staged for your next commit '
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +56,8 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = 'adds a file as it looks now to your next commit aka SCREENSHOT '
+"git add ."
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +68,8 @@
 */
 
 //CODE HERE
-
+let gitCommitDefinition = 'commits your staged content as a new commit snapshot '
+'Git commit -m"nameoffile'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +78,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = 'transmitts local branch commits to the remote repository branch '
