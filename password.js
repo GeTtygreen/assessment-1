@@ -10,16 +10,16 @@ const reader = readline.createInterface({
 reader.question("What is your new password?", function(input){
 	tokens = input.split(' ');
 	
-	mathSymbol = tokens[0];
-	num1 = Number(tokens[1]);
-	num2 = Number(tokens[2]);
+	newPasscode = tokens[0,'Acde',];
+	pass1 = Passcode(tokens[1]);
+	pass2 = Passcode(tokens[2]);
 
 	console.log('mathSymbol', mathSymbol)
-	console.log ( 'num1',num1);
-	console.log('num2', num2);
+	console.log ( 'pass1',pass1);
+	console.log('pass2', pass2);
 
 	if (mathSymbol === "+"){
-		console.log(num1 + num2);
+		console.log([pass1] + pass2);
 	}
 
 	// This line closes the connection to the command line interface.

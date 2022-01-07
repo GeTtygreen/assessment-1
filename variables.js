@@ -34,6 +34,6 @@ if(faveNum == 13){
 */
 
 //CODE HERE
-for (let gt = 5 ; gt < 6; gt===5 ){
-  console.log(gt)
+for (let gt = 0 ; gt < 5; gt ++ ){
+  console.log(faveNum)
 }
