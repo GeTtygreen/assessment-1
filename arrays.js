@@ -17,7 +17,7 @@ const faveColors = ['red', 'green', 'black']
 */
 
 const numbers = [1, 2, 3, 4, 5]
-
+let numbers= true ;
 //CODE HERE
 
 
